@@ -1,0 +1,9 @@
+{
+    "env":{
+        "PORT":"8080",
+        "USER_DB":"user_technical_test",
+        "PASSWORD_DB":"RUea3fZDxrZHF34h",
+        "MONGODB_CNN":"mongodb+srv://user_technical_test:RUea3fZDxrZHF34h@prueba-tecnica.kwy1p.mongodb.net/technical-test",
+        "SECRETORPRIVATEKEY":"jejeje123abc"
+    }
+}
